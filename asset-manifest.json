@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/raqeb_dashboard/static/css/main.7d0b8df6.css",
-    "main.js": "/raqeb_dashboard/static/js/main.b576732d.js",
+    "main.css": "/raqeb_dashboard/static/css/main.01db3b3d.css",
+    "main.js": "/raqeb_dashboard/static/js/main.95a25216.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/raqeb_dashboard/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/raqeb_dashboard/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/raqeb_dashboard/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
@@ -11,7 +11,7 @@
     "index.html": "/raqeb_dashboard/index.html"
   },
   "entrypoints": [
-    "static/css/main.7d0b8df6.css",
-    "static/js/main.b576732d.js"
+    "static/css/main.01db3b3d.css",
+    "static/js/main.95a25216.js"
   ]
 }
