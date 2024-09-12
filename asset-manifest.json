@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/raqeb_dashboard/static/css/main.d532669c.css",
+    "main.css": "/raqeb_dashboard/static/css/main.d22e0fa7.css",
     "main.js": "/raqeb_dashboard/static/js/main.fbdd3b4c.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/raqeb_dashboard/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/raqeb_dashboard/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -11,7 +11,7 @@
     "index.html": "/raqeb_dashboard/index.html"
   },
   "entrypoints": [
-    "static/css/main.d532669c.css",
+    "static/css/main.d22e0fa7.css",
     "static/js/main.fbdd3b4c.js"
   ]
 }
